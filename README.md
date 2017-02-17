@@ -4,7 +4,7 @@
 
 This is a save editor for Orteil's game Cookie Clicker which can be found [HERE](http://orteil.dashnet.org/cookieclicker/). This is a desktop application, not a web app.
 
-This is still a beta release, so bugs are expected. Make sure you back up your saves before trying to modify it incase something doesn't go right!
+This is still a beta release, so bugs are expected. Make sure you back up your saves before trying to modify it incase something doesn't go right! It's only been tested for v2.002, so other versions (1.x) probably won't work.
 
 <b>REQUIREMENTS</b>
 
